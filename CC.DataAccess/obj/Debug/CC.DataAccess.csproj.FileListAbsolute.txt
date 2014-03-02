@@ -1,0 +1,16 @@
+C:\Temp\CC.Web\CC.DataAccess\bin\Debug\CC.DataAccess.dll.config
+C:\Temp\CC.Web\CC.DataAccess\bin\Debug\CC.DataAccess.dll
+C:\Temp\CC.Web\CC.DataAccess\bin\Debug\CC.DataAccess.pdb
+C:\Temp\CC.Web\CC.DataAccess\bin\Debug\Breeze.ContextProvider.dll
+C:\Temp\CC.Web\CC.DataAccess\bin\Debug\Breeze.ContextProvider.EF6.dll
+C:\Temp\CC.Web\CC.DataAccess\bin\Debug\CC.Model.dll
+C:\Temp\CC.Web\CC.DataAccess\bin\Debug\EntityFramework.dll
+C:\Temp\CC.Web\CC.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Temp\CC.Web\CC.DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Temp\CC.Web\CC.DataAccess\bin\Debug\CC.Model.pdb
+C:\Temp\CC.Web\CC.DataAccess\bin\Debug\EntityFramework.xml
+C:\Temp\CC.Web\CC.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Temp\CC.Web\CC.DataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Temp\CC.Web\CC.DataAccess\obj\Debug\CC.DataAccess.csprojResolveAssemblyReference.cache
+C:\Temp\CC.Web\CC.DataAccess\obj\Debug\CC.DataAccess.dll
+C:\Temp\CC.Web\CC.DataAccess\obj\Debug\CC.DataAccess.pdb

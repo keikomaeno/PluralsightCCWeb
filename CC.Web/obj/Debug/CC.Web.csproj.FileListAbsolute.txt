@@ -1,0 +1,16 @@
+C:\Temp\CC.Web\CC.Web\bin\CC.Web.dll.config
+C:\Temp\CC.Web\CC.Web\bin\CC.Web.dll
+C:\Temp\CC.Web\CC.Web\bin\CC.Web.pdb
+C:\Temp\CC.Web\CC.Web\bin\CC.DataAccess.dll
+C:\Temp\CC.Web\CC.Web\bin\CC.Model.dll
+C:\Temp\CC.Web\CC.Web\bin\EntityFramework.dll
+C:\Temp\CC.Web\CC.Web\bin\Breeze.ContextProvider.EF6.dll
+C:\Temp\CC.Web\CC.Web\bin\Breeze.ContextProvider.dll
+C:\Temp\CC.Web\CC.Web\bin\Newtonsoft.Json.dll
+C:\Temp\CC.Web\CC.Web\bin\CC.DataAccess.pdb
+C:\Temp\CC.Web\CC.Web\bin\CC.Model.pdb
+C:\Temp\CC.Web\CC.Web\bin\EntityFramework.xml
+C:\Temp\CC.Web\CC.Web\bin\Newtonsoft.Json.xml
+C:\Temp\CC.Web\CC.Web\obj\Debug\CC.Web.csprojResolveAssemblyReference.cache
+C:\Temp\CC.Web\CC.Web\obj\Debug\CC.Web.dll
+C:\Temp\CC.Web\CC.Web\obj\Debug\CC.Web.pdb
